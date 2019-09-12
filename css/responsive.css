@@ -76,7 +76,9 @@
   width: auto;
 }
 
-div#logo h2
+#logo h2{
+  display:none ;
+}
 
 #logo{
     padding: 60px 0 0;
