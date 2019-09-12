@@ -87,5 +87,9 @@
   #social{
     top: 160px;
   }
+  
+  #social a{
+    display: inline-block;
+  }
 }
 }
